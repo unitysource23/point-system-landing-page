@@ -2137,7 +2137,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     top: 20%;
     left: 31%;
     width: 69%;
-    height: 188%;
+    height: 100%;
     background: linear-gradient(to bottom left, transparent 0%, transparent 50%, #f8fcff 50%, #fcfdff 100%);
     background: -webkit-linear-gradient(to bottom left, transparent 0%, transparent 50%, #f8fcff 50%, #fcfdff 100%);
     background: -moz-linear-gradient(to bottom left, transparent 0%, transparent 50%, #f8fcff 50%, #fcfdff 100%);
